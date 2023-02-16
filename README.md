@@ -1,6 +1,6 @@
 # flutter_praktek_1
 
-My new Flutter project.
+My First Flutter project.
 ![image](https://user-images.githubusercontent.com/93690714/219375105-5233ae5a-9ac3-489a-968a-82006fa781e0.png)
 
 ## Getting Started
